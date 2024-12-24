@@ -1,7 +1,8 @@
 Example screenshot:
-<img width="942" alt="Screenshot 2024-12-24 185730" src="https://github.com/user-attachments/assets/bae88020-5d34-48a0-976e-54dd4cd24bf1" />#Payment Receipt Generator
+<img width="1025" alt="image" src="https://github.com/user-attachments/assets/fbcc386d-f03f-4f1f-9aab-1d7acc85b239" />
 
-Payment Receipt Generator
+
+Bill Management System
 This is a simple Python application created using the Tkinter library that allows users to generate a receipt based on selected items, their prices, and quantities.
 
 Features:
